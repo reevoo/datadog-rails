@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = 'datadog-rails'
   spec.version       = Datadog::Rails::VERSION
   spec.authors       = ['David Sevcik']
-  spec.email         = ['david.sevcik@greevoo.com']
-  spec.summary       = 'Datadog performance tracking for Rails apps.'
-  spec.description   = 'Datadog performance tracking for Rails apps.'
+  spec.email         = ['david.sevcik@reevoo.com']
+  spec.summary       = 'Rails app performance tracking for Datadog'
+  spec.description   = 'Collects controller action metrics of Rails application and sends them to Datadog platform.'
   spec.homepage      = 'https://github.com/reevoo/datadog-rails'
   spec.license       = 'MIT'
 
